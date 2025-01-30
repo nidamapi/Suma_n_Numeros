@@ -19,5 +19,7 @@ s= (n*(n+1))/2
 s
 # Diseño
 
-![""](./storage/diagrama.png)
+![Diagrama de flujo](diagrama.png)"Diagrama de flujo"
+
+
 # Construccion
